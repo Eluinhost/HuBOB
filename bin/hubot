@@ -5,7 +5,7 @@ export PATH="node_modules/.bin:node_modules/hubot/node_modules/.bin:$PATH"
 
 HUBOT_SLACK_TOKEN=~
 HUBOT_SLACK_TEAM=insorum
-HUBOT_SLACK_BOTNAME=hubob
+HUBOT_SLACK_BOTNAME=BOB
 
 exec node_modules/.bin/hubot "$@"
 
