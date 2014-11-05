@@ -28,7 +28,7 @@
     "hubot-shipit": "^0.1.1",
     "hubot-slack": "^2.2.0",
     "hubot-youtube": "^0.1.2",
-    "hubot-youtube-feed": "^0.0.1"
+    "hubot-youtube-feed": "~0.0.2"
   },
   "engines": {
     "node": "0.10.x"
