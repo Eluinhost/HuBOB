@@ -1,0 +1,1 @@
+bin/hubot -a slack -n HuBOB
