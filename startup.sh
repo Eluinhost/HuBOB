@@ -1,1 +1,1 @@
-bin/hubot -a slack -n HuBOB
+env $(cat .env | xargs) bin/hubot -a slack
