@@ -10,6 +10,7 @@
     "hubot-redis-brain",
     "hubot-rules",
     "hubot-shipit",
+    "hubot-spotify-control",
     "hubot-youtube",
     "hubot-youtube-feed"
 ]
