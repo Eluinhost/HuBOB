@@ -1,18 +1,14 @@
 {
   "name": "HuBOB",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "author": "Graham Howden <graham_howden1@yahoo.co.uk>",
   "description": "Hubot for Insorum",
   "dependencies": {
     "cheerio": "^0.17.0",
+    "chrono-node": "^1.1.2",
     "flip": "^0.1.1",
     "htmlparser": "^1.7.7",
-    "soupselect": "^0.2.0",
-    "underscore": "^1.7.0",
-    "underscore.string": "^2.3.3",
-    "validator": "^3.22.1",
-
     "hubot": "^2.9.3",
     "hubot-auth": "^1.1.2",
     "hubot-diagnostics": "0.0.1",
@@ -26,10 +22,15 @@
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
-    "hubot-spotify-control": "~0.0.3",
     "hubot-slack": "^2.2.0",
     "hubot-youtube": "^0.1.2",
-    "hubot-youtube-feed": "~0.0.5"
+    "lodash": "^4.0.0",
+    "moment": "^2.11.1",
+    "hubot-spotify-control": "0.1.x",
+    "soupselect": "^0.2.0",
+    "underscore": "^1.7.0",
+    "underscore.string": "^2.3.3",
+    "validator": "^3.22.1"
   },
   "engines": {
     "node": "0.10.x"
